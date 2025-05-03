@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Distillery.<br>I'm looking to collaborate on any kind of project that you have :).<br>I'm looking for help with somebody who can lead, teach, support me to fulfill my path to become a technical leader.<br>I'm currently learning Web 3 development, specifically starting developing smart contracts with Solidity.<br>Ask me about anything that you are curious about.
+I'm looking to collaborate on any kind of project that you have :).<br>I'm looking for help with somebody who can lead, teach, support me to fulfill my path to become a technical leader.<br>I'm currently learning Web 3 development, specifically starting developing smart contracts with Solidity.<br>Ask me about anything that you are curious about.
 
 
 ## 🌐 Socials:
