@@ -17,6 +17,12 @@ The thread through most of this work is reliability. Third-party APIs, queues an
 
 I also review code, mentor teammates and I am working toward a tech lead role. Based in Buenos Aires, Argentina. Open to senior and lead fullstack roles, remote.
 
+## Stack
+
+<p align="center">
+  <img src="assets/stack.svg" alt="Stack. Languages: TypeScript, JavaScript. Backend: Node.js, NestJS, Express, GraphQL, Apollo, Prisma, Sequelize. Frontend: React, Next.js, Redux, Tailwind CSS. Database: MongoDB, MySQL, MariaDB, SQL Server, DynamoDB, Firebase. Messaging and cache: Kafka, RabbitMQ, Redis. Cloud and tooling: AWS, GitHub Actions, Git, pnpm." width="100%">
+</p>
+
 ## Writing
 
 I write short, practical posts with small examples you can run in one command.
@@ -27,9 +33,3 @@ I write short, practical posts with small examples you can run in one command.
 2. [How many jobs should a Node.js queue run at once?](https://blog.sandrodezerio.dev/node-job-queue-concurrency/)
 
 More parts are on the way. Posts are published on the [blog](https://blog.sandrodezerio.dev) and mirrored on [dev.to](https://dev.to/sandrosd).
-
-## Stack
-
-<p align="center">
-  <img src="assets/stack.svg" alt="Stack. Languages: TypeScript, JavaScript. Backend: Node.js, NestJS, Express, GraphQL, Apollo. Messaging and cache: Kafka, RabbitMQ, Redis. Data: MongoDB, MySQL, Prisma. Cloud and tooling: AWS, GitHub Actions, Git, pnpm. Frontend: React, Next.js, Redux, Tailwind CSS." width="100%">
-</p>
