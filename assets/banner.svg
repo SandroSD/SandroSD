@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="t d">
   <title id="t">Sandro Dezerio</title>
-  <desc id="d">Senior fullstack engineer. Backend software that holds up in production.</desc>
+  <desc id="d">Senior fullstack engineer. Fullstack systems that hold up in production.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0F1F4D"/>
@@ -28,6 +28,6 @@
     <text x="80" y="108" font-size="15" font-weight="600" letter-spacing="4" fill="#A5B4FC">SENIOR FULLSTACK ENGINEER</text>
     <text x="80" y="176" font-size="64" font-weight="700" letter-spacing="-1" fill="#FFFFFF">Sandro Dezerio</text>
     <rect x="80" y="200" width="56" height="4" rx="2" fill="#4F46E5"/>
-    <text x="80" y="244" font-size="22" font-weight="400" fill="#DCE3F5">Backend software that holds up in production</text>
+    <text x="80" y="244" font-size="22" font-weight="400" fill="#DCE3F5">Fullstack systems that hold up in production</text>
   </g>
 </svg>
