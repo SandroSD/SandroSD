@@ -17,10 +17,17 @@ The thread through most of this work is reliability. Third-party APIs, queues an
 
 I also review code, mentor teammates and I am working toward a tech lead role. Based in Buenos Aires, Argentina. Open to senior and lead fullstack roles, remote.
 
+## Now learning: Solana
+
+> **Blockchain development on Solana, with Rust as the main language.**
+> I am currently in a Solana bootcamp, learning to build on the network and the tools around it as the course goes on.
+
+Coming from backend and fintech work, I am interested in how the same ideas of reliability, correctness and careful failure handling apply to on-chain programs.
+
 ## Stack
 
 <p align="center">
-  <img src="assets/stack.svg?v=2" alt="Technology stack: languages, backend, frontend, databases, cloud, messaging and cache, and tools." width="100%">
+  <img src="assets/stack.svg?v=3" alt="Technology stack: languages, backend, frontend, databases, cloud, messaging and cache, tools, AI tooling, and what I am currently learning (Rust and Solana)." width="100%">
 </p>
 
 ## Writing
