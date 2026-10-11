@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="200" viewBox="0 0 960 200" role="img" aria-labelledby="t d">
-  <title id="t">Now learning: blockchain development</title>
-  <desc id="d">Currently learning blockchain development: the Solana ecosystem, with Rust as the main language.</desc>
+  <title id="t">Decentralized systems: blockchain development</title>
+  <desc id="d">Blockchain development on the Solana ecosystem, with Rust as the main language. A network of connected nodes.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0F1F4D"/>
@@ -9,17 +9,16 @@
   </defs>
   <rect width="960" height="200" rx="14" fill="url(#bg)"/>
   <rect x="0" y="0" width="6" height="200" rx="3" fill="#4F46E5"/>
-  <g fill="none" stroke="#EEF2FB" stroke-opacity="0.35" stroke-width="2" stroke-linecap="round">
-    <path d="M662 100H690M742 100H770M822 100H850"/>
-  </g>
-  <g>
-    <rect x="610" y="74" width="52" height="52" rx="9" fill="#EEF2FB" fill-opacity="0.08" stroke="#EEF2FB" stroke-opacity="0.35" stroke-width="2"/>
-    <rect x="690" y="74" width="52" height="52" rx="9" fill="#EEF2FB" fill-opacity="0.08" stroke="#EEF2FB" stroke-opacity="0.35" stroke-width="2"/>
-    <rect x="770" y="74" width="52" height="52" rx="9" fill="#EEF2FB" fill-opacity="0.08" stroke="#EEF2FB" stroke-opacity="0.35" stroke-width="2"/>
-    <rect x="850" y="74" width="52" height="52" rx="9" fill="#4F46E5" stroke="#A5B4FC" stroke-opacity="0.8" stroke-width="2"/>
-  </g>
+  <g stroke="#A5B4FC" stroke-opacity="0.45" stroke-width="1.5" stroke-dasharray="2 5" stroke-linecap="round"><line x1="640" y1="62" x2="740" y2="50"/><line x1="740" y1="50" x2="830" y2="78"/><line x1="640" y1="62" x2="700" y2="126"/><line x1="740" y1="50" x2="700" y2="126"/><line x1="830" y1="78" x2="700" y2="126"/><line x1="700" y1="126" x2="800" y2="148"/><line x1="830" y1="78" x2="900" y2="128"/><line x1="800" y1="148" x2="900" y2="128"/><line x1="620" y1="150" x2="700" y2="126"/><line x1="640" y1="62" x2="620" y2="150"/></g>
+  <polygon points="640,46 653.92,54.0 653.92,70.0 640,78 626.08,70.0 626.08,54.0" fill="#162A66"/><polygon points="640,46 653.92,54.0 640,62 626.08,54.0" fill="#EEF2FB" fill-opacity="0.16" stroke="#EEF2FB" stroke-opacity="0.4" stroke-width="1.5" stroke-linejoin="round"/><polygon points="626.08,54.0 640,62 640,78 626.08,70.0" fill="#EEF2FB" fill-opacity="0.05" stroke="#EEF2FB" stroke-opacity="0.4" stroke-width="1.5" stroke-linejoin="round"/><polygon points="653.92,54.0 640,62 640,78 653.92,70.0" fill="#EEF2FB" fill-opacity="0.09" stroke="#EEF2FB" stroke-opacity="0.4" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="740,36 752.18,43.0 752.18,57.0 740,64 727.82,57.0 727.82,43.0" fill="#162A66"/><polygon points="740,36 752.18,43.0 740,50 727.82,43.0" fill="#EEF2FB" fill-opacity="0.16" stroke="#EEF2FB" stroke-opacity="0.4" stroke-width="1.5" stroke-linejoin="round"/><polygon points="727.82,43.0 740,50 740,64 727.82,57.0" fill="#EEF2FB" fill-opacity="0.05" stroke="#EEF2FB" stroke-opacity="0.4" stroke-width="1.5" stroke-linejoin="round"/><polygon points="752.18,43.0 740,50 740,64 752.18,57.0" fill="#EEF2FB" fill-opacity="0.09" stroke="#EEF2FB" stroke-opacity="0.4" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="830,60 845.66,69.0 845.66,87.0 830,96 814.34,87.0 814.34,69.0" fill="#162A66"/><polygon points="830,60 845.66,69.0 830,78 814.34,69.0" fill="#EEF2FB" fill-opacity="0.16" stroke="#EEF2FB" stroke-opacity="0.4" stroke-width="1.5" stroke-linejoin="round"/><polygon points="814.34,69.0 830,78 830,96 814.34,87.0" fill="#EEF2FB" fill-opacity="0.05" stroke="#EEF2FB" stroke-opacity="0.4" stroke-width="1.5" stroke-linejoin="round"/><polygon points="845.66,69.0 830,78 830,96 845.66,87.0" fill="#EEF2FB" fill-opacity="0.09" stroke="#EEF2FB" stroke-opacity="0.4" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="700,104 719.14,115.0 700,126 680.86,115.0" fill="#818CF8" stroke="#A5B4FC" stroke-opacity="0.9" stroke-width="1.5" stroke-linejoin="round"/><polygon points="680.86,115.0 700,126 700,148 680.86,137.0" fill="#4F46E5" stroke="#A5B4FC" stroke-opacity="0.9" stroke-width="1.5" stroke-linejoin="round"/><polygon points="719.14,115.0 700,126 700,148 719.14,137.0" fill="#3730A3" stroke="#A5B4FC" stroke-opacity="0.9" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="800,132 813.92,140.0 813.92,156.0 800,164 786.08,156.0 786.08,140.0" fill="#162A66"/><polygon points="800,132 813.92,140.0 800,148 786.08,140.0" fill="#EEF2FB" fill-opacity="0.16" stroke="#EEF2FB" stroke-opacity="0.4" stroke-width="1.5" stroke-linejoin="round"/><polygon points="786.08,140.0 800,148 800,164 786.08,156.0" fill="#EEF2FB" fill-opacity="0.05" stroke="#EEF2FB" stroke-opacity="0.4" stroke-width="1.5" stroke-linejoin="round"/><polygon points="813.92,140.0 800,148 800,164 813.92,156.0" fill="#EEF2FB" fill-opacity="0.09" stroke="#EEF2FB" stroke-opacity="0.4" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="900,114 912.18,121.0 912.18,135.0 900,142 887.82,135.0 887.82,121.0" fill="#162A66"/><polygon points="900,114 912.18,121.0 900,128 887.82,121.0" fill="#EEF2FB" fill-opacity="0.16" stroke="#EEF2FB" stroke-opacity="0.4" stroke-width="1.5" stroke-linejoin="round"/><polygon points="887.82,121.0 900,128 900,142 887.82,135.0" fill="#EEF2FB" fill-opacity="0.05" stroke="#EEF2FB" stroke-opacity="0.4" stroke-width="1.5" stroke-linejoin="round"/><polygon points="912.18,121.0 900,128 900,142 912.18,135.0" fill="#EEF2FB" fill-opacity="0.09" stroke="#EEF2FB" stroke-opacity="0.4" stroke-width="1.5" stroke-linejoin="round"/>
+  <polygon points="620,137 631.31,143.5 631.31,156.5 620,163 608.69,156.5 608.69,143.5" fill="#162A66"/><polygon points="620,137 631.31,143.5 620,150 608.69,143.5" fill="#EEF2FB" fill-opacity="0.16" stroke="#EEF2FB" stroke-opacity="0.4" stroke-width="1.5" stroke-linejoin="round"/><polygon points="608.69,143.5 620,150 620,163 608.69,156.5" fill="#EEF2FB" fill-opacity="0.05" stroke="#EEF2FB" stroke-opacity="0.4" stroke-width="1.5" stroke-linejoin="round"/><polygon points="631.31,143.5 620,150 620,163 631.31,156.5" fill="#EEF2FB" fill-opacity="0.09" stroke="#EEF2FB" stroke-opacity="0.4" stroke-width="1.5" stroke-linejoin="round"/>
   <g font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
-    <text x="48" y="64" font-size="13" font-weight="600" letter-spacing="3.5" fill="#A5B4FC">NOW LEARNING</text>
+    <text x="48" y="64" font-size="13" font-weight="600" letter-spacing="3.5" fill="#A5B4FC">DECENTRALIZED SYSTEMS</text>
     <text x="48" y="112" font-size="38" font-weight="700" letter-spacing="-0.5" fill="#FFFFFF">Blockchain development</text>
     <text x="48" y="150" font-size="18" font-weight="400" fill="#DCE3F5">Solana ecosystem  ·  Rust as the main language</text>
   </g>
