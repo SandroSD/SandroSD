@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Sandro Dezerio. Senior fullstack engineer. Backend software that holds up in production." width="100%">
+  <img src="assets/banner.svg?v=2" alt="Sandro Dezerio. Senior fullstack engineer. Fullstack systems that hold up in production." width="100%">
 </p>
 
 <p align="center">
@@ -17,12 +17,17 @@ The thread through most of this work is reliability. Third-party APIs, queues an
 
 I also review code, mentor teammates and I am working toward a tech lead role. Based in Buenos Aires, Argentina. Open to senior and lead fullstack roles, remote.
 
-## Now learning: Solana
+## Now learning: blockchain development
 
-> **Blockchain development on Solana, with Rust as the main language.**
-> I am currently in a Solana bootcamp, learning to build on the network and the tools around it as the course goes on.
+<p align="center">
+  <img src="assets/learning.svg" alt="Now learning: blockchain development. Solana ecosystem, with Rust as the main language." width="100%">
+</p>
 
-Coming from backend and fintech work, I am interested in how the same ideas of reliability, correctness and careful failure handling apply to on-chain programs.
+**From reliable backends to on-chain programs.**
+
+After nine years building web products and fintech backends, I am moving into blockchain development. I am in a Solana bootcamp, writing programs in Rust and learning the tools around the ecosystem as the course goes on.
+
+The move is a natural one. On-chain code handles value directly, so the habits I already rely on matter even more: idempotency, careful failure handling and treating correctness as a requirement, not a nice-to-have.
 
 ## Stack
 
