@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg?v=2" alt="Sandro Dezerio. Senior fullstack engineer. Fullstack systems that hold up in production." width="100%">
+  <img src="assets/banner.svg?v=5" alt="Sandro Dezerio. Senior fullstack engineer. Systems that hold up in production." width="100%">
 </p>
 
 <p align="center">
@@ -17,13 +17,13 @@ The thread through most of this work is reliability. Third-party APIs, queues an
 
 I also review code, mentor teammates and I am working toward a tech lead role. Based in Buenos Aires, Argentina. Open to senior and lead fullstack roles, remote.
 
-## Now learning: blockchain development
+## Now learning: Blockchain Development
 
 <p align="center">
-  <img src="assets/learning.svg" alt="Now learning: blockchain development. Solana ecosystem, with Rust as the main language." width="100%">
+  <img src="assets/learning.svg?v=2" alt="Decentralized systems. Blockchain development on the Solana ecosystem, with Rust as the main language." width="100%">
 </p>
 
-**From reliable backends to on-chain programs.**
+**From reliable fullstack systems to decentralized ones.**
 
 After nine years building web products and fintech backends, I am moving into blockchain development. I am in a Solana bootcamp, writing programs in Rust and learning the tools around the ecosystem as the course goes on.
 
