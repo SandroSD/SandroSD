@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="494" viewBox="0 0 960 494" role="img" aria-labelledby="t d">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="614" viewBox="0 0 960 614" role="img" aria-labelledby="t d">
 <title id="t">Technology stack</title>
-<desc id="d">Languages: TypeScript, JavaScript. Backend: Node.js, NestJS, Express, REST API, GraphQL, Apollo. Frontend: React, Next.js, Redux, Tailwind CSS. Database: MongoDB, MySQL, MariaDB, SQL Server, DynamoDB, Firebase. Cloud: AWS, Lambda, S3, IAM, RDS, CloudWatch, API Gateway. Messaging and cache: Kafka, RabbitMQ, Redis. Tools: Prisma, Sequelize, Git, GitHub Actions, pnpm.</desc>
+<desc id="d">Languages: TypeScript, JavaScript. Backend: Node.js, NestJS, Express, REST API, GraphQL, Apollo. Frontend: React, Next.js, Redux, Tailwind CSS. Database: MongoDB, MySQL, MariaDB, SQL Server, DynamoDB, Firebase. Cloud: AWS, Lambda, S3, IAM, RDS, CloudWatch, API Gateway. Messaging and cache: Kafka, RabbitMQ, Redis. Tools: Prisma, Sequelize, Git, GitHub Actions, pnpm. AI tooling: Claude Code, Claude Cowork, Skills, Hooks. Currently learning: Rust, Solana.</desc>
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0F1F4D"/><stop offset="1" stop-color="#1A3379"/></linearGradient></defs>
-<rect width="960" height="494" rx="14" fill="url(#bg)"/>
+<rect width="960" height="614" rx="14" fill="url(#bg)"/>
 <g font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
 <text x="40" y="66" font-size="12.5" font-weight="600" letter-spacing="2.5" fill="#A5B4FC">LANGUAGES</text>
 <rect x="250" y="44" width="104" height="34" rx="8" fill="#EEF2FB" fill-opacity="0.09" stroke="#EEF2FB" stroke-opacity="0.28"/>
@@ -83,5 +83,21 @@
 <text x="578.5" y="426" font-size="15" font-weight="500" text-anchor="middle" fill="#F4F6FD">GitHub Actions</text>
 <rect x="655" y="404" width="71" height="34" rx="8" fill="#EEF2FB" fill-opacity="0.09" stroke="#EEF2FB" stroke-opacity="0.28"/>
 <text x="690.5" y="426" font-size="15" font-weight="500" text-anchor="middle" fill="#F4F6FD">pnpm</text>
+<path d="M40 451H920" stroke="#EEF2FB" stroke-opacity="0.10"/>
+<text x="40" y="486" font-size="12.5" font-weight="600" letter-spacing="2.5" fill="#A5B4FC">AI TOOLING</text>
+<rect x="250" y="464" width="121" height="34" rx="8" fill="#EEF2FB" fill-opacity="0.09" stroke="#EEF2FB" stroke-opacity="0.28"/>
+<text x="310.5" y="486" font-size="15" font-weight="500" text-anchor="middle" fill="#F4F6FD">Claude Code</text>
+<rect x="381" y="464" width="136" height="34" rx="8" fill="#EEF2FB" fill-opacity="0.09" stroke="#EEF2FB" stroke-opacity="0.28"/>
+<text x="449" y="486" font-size="15" font-weight="500" text-anchor="middle" fill="#F4F6FD">Claude Cowork</text>
+<rect x="527" y="464" width="68" height="34" rx="8" fill="#EEF2FB" fill-opacity="0.09" stroke="#EEF2FB" stroke-opacity="0.28"/>
+<text x="561" y="486" font-size="15" font-weight="500" text-anchor="middle" fill="#F4F6FD">Skills</text>
+<rect x="605" y="464" width="76" height="34" rx="8" fill="#EEF2FB" fill-opacity="0.09" stroke="#EEF2FB" stroke-opacity="0.28"/>
+<text x="643" y="486" font-size="15" font-weight="500" text-anchor="middle" fill="#F4F6FD">Hooks</text>
+<path d="M40 511H920" stroke="#EEF2FB" stroke-opacity="0.10"/>
+<text x="40" y="546" font-size="12.5" font-weight="600" letter-spacing="2.5" fill="#A5B4FC">LEARNING</text>
+<rect x="250" y="524" width="64" height="34" rx="8" fill="#4F46E5" stroke="#A5B4FC" stroke-opacity="0.8"/>
+<text x="282" y="546" font-size="15" font-weight="500" text-anchor="middle" fill="#F4F6FD">Rust</text>
+<rect x="324" y="524" width="80" height="34" rx="8" fill="#4F46E5" stroke="#A5B4FC" stroke-opacity="0.8"/>
+<text x="364" y="546" font-size="15" font-weight="500" text-anchor="middle" fill="#F4F6FD">Solana</text>
 </g>
 </svg>
