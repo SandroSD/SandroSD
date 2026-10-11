@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="t d">
+  <title id="t">Sandro Dezerio</title>
+  <desc id="d">Senior fullstack engineer. Backend software that holds up in production.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F1F4D"/>
+      <stop offset="1" stop-color="#1A3379"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="300" fill="url(#bg)"/>
+  <g stroke="#EEF2FB" stroke-opacity="0.05" stroke-width="1">
+    <path d="M0 50H1280M0 100H1280M0 150H1280M0 200H1280M0 250H1280"/>
+    <path d="M160 0V300M320 0V300M480 0V300M640 0V300M800 0V300M960 0V300M1120 0V300"/>
+  </g>
+  <g fill="none" stroke="#EEF2FB" stroke-opacity="0.35" stroke-width="2" stroke-linecap="round">
+    <path d="M800 150H860M940 150H1000M1080 150H1140"/>
+    <path d="M1040 150V96M1040 150V204" stroke-opacity="0.2"/>
+  </g>
+  <g>
+    <rect x="740" y="126" width="60" height="48" rx="8" fill="#EEF2FB" fill-opacity="0.08" stroke="#EEF2FB" stroke-opacity="0.35" stroke-width="2"/>
+    <rect x="860" y="126" width="80" height="48" rx="8" fill="#EEF2FB" fill-opacity="0.08" stroke="#EEF2FB" stroke-opacity="0.35" stroke-width="2"/>
+    <rect x="1000" y="126" width="80" height="48" rx="8" fill="#4F46E5" stroke="#A5B4FC" stroke-opacity="0.8" stroke-width="2"/>
+    <rect x="1140" y="126" width="60" height="48" rx="8" fill="#EEF2FB" fill-opacity="0.08" stroke="#EEF2FB" stroke-opacity="0.35" stroke-width="2"/>
+    <rect x="1008" y="72" width="64" height="24" rx="6" fill="#EEF2FB" fill-opacity="0.06" stroke="#EEF2FB" stroke-opacity="0.2" stroke-width="1.5"/>
+    <rect x="1008" y="204" width="64" height="24" rx="6" fill="#EEF2FB" fill-opacity="0.06" stroke="#EEF2FB" stroke-opacity="0.2" stroke-width="1.5"/>
+  </g>
+  <g font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <text x="80" y="108" font-size="15" font-weight="600" letter-spacing="4" fill="#A5B4FC">SENIOR FULLSTACK ENGINEER</text>
+    <text x="80" y="176" font-size="64" font-weight="700" letter-spacing="-1" fill="#FFFFFF">Sandro Dezerio</text>
+    <rect x="80" y="200" width="56" height="4" rx="2" fill="#4F46E5"/>
+    <text x="80" y="244" font-size="22" font-weight="400" fill="#DCE3F5">Backend software that holds up in production</text>
+  </g>
+</svg>
