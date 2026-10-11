@@ -20,7 +20,7 @@ I also review code, mentor teammates and I am working toward a tech lead role. B
 ## Stack
 
 <p align="center">
-  <img src="assets/stack.svg" alt="Stack. Languages: TypeScript, JavaScript. Backend: Node.js, NestJS, Express, GraphQL, Apollo, Prisma, Sequelize. Frontend: React, Next.js, Redux, Tailwind CSS. Database: MongoDB, MySQL, MariaDB, SQL Server, DynamoDB, Firebase. Messaging and cache: Kafka, RabbitMQ, Redis. Cloud and tooling: AWS, GitHub Actions, Git, pnpm." width="100%">
+  <img src="assets/stack.svg?v=2" alt="Technology stack: languages, backend, frontend, databases, cloud, messaging and cache, and tools." width="100%">
 </p>
 
 ## Writing
