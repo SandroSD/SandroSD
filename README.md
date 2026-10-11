@@ -30,56 +30,6 @@ More parts are on the way. Posts are published on the [blog](https://blog.sandro
 
 ## Stack
 
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1A3379?style=flat-square&logo=typescript&logoColor=white">
-      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1A3379?style=flat-square&logo=javascript&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1A3379?style=flat-square&logo=nodedotjs&logoColor=white">
-      <img alt="NestJS" src="https://img.shields.io/badge/NestJS-1A3379?style=flat-square&logo=nestjs&logoColor=white">
-      <img alt="Express" src="https://img.shields.io/badge/Express-1A3379?style=flat-square&logo=express&logoColor=white">
-      <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-1A3379?style=flat-square&logo=graphql&logoColor=white">
-      <img alt="Apollo GraphQL" src="https://img.shields.io/badge/Apollo-1A3379?style=flat-square&logo=apollographql&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Messaging &amp; cache</b></td>
-    <td>
-      <img alt="Apache Kafka" src="https://img.shields.io/badge/Kafka-1A3379?style=flat-square&logo=apachekafka&logoColor=white">
-      <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-1A3379?style=flat-square&logo=rabbitmq&logoColor=white">
-      <img alt="Redis" src="https://img.shields.io/badge/Redis-1A3379?style=flat-square&logo=redis&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Data</b></td>
-    <td>
-      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-1A3379?style=flat-square&logo=mongodb&logoColor=white">
-      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-1A3379?style=flat-square&logo=mysql&logoColor=white">
-      <img alt="Prisma" src="https://img.shields.io/badge/Prisma-1A3379?style=flat-square&logo=prisma&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Cloud &amp; tooling</b></td>
-    <td>
-      <img alt="AWS" src="https://img.shields.io/badge/AWS-1A3379?style=flat-square&logo=amazonwebservices&logoColor=white">
-      <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-1A3379?style=flat-square&logo=githubactions&logoColor=white">
-      <img alt="Git" src="https://img.shields.io/badge/Git-1A3379?style=flat-square&logo=git&logoColor=white">
-      <img alt="pnpm" src="https://img.shields.io/badge/pnpm-1A3379?style=flat-square&logo=pnpm&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img alt="React" src="https://img.shields.io/badge/React-1A3379?style=flat-square&logo=react&logoColor=white">
-      <img alt="Next.js" src="https://img.shields.io/badge/Next.js-1A3379?style=flat-square&logo=nextdotjs&logoColor=white">
-      <img alt="Redux" src="https://img.shields.io/badge/Redux-1A3379?style=flat-square&logo=redux&logoColor=white">
-      <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-1A3379?style=flat-square&logo=tailwindcss&logoColor=white">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/stack.svg" alt="Stack. Languages: TypeScript, JavaScript. Backend: Node.js, NestJS, Express, GraphQL, Apollo. Messaging and cache: Kafka, RabbitMQ, Redis. Data: MongoDB, MySQL, Prisma. Cloud and tooling: AWS, GitHub Actions, Git, pnpm. Frontend: React, Next.js, Redux, Tailwind CSS." width="100%">
+</p>
