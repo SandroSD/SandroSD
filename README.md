@@ -54,5 +54,6 @@ More parts are on the way. Posts are published on the [blog](https://blog.sandro
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SandroSD&background=0F1F4D&ring=818CF8&fire=818CF8&currStreakLabel=A5B4FC&sideLabels=DCE3F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A5B4FC&stroke=1A3379&border=1A3379" alt="GitHub contribution streak" width="495">
+  <img src="https://streak-stats.demolab.com/?user=SandroSD&background=0F1F4D&ring=818CF8&fire=818CF8&currStreakLabel=A5B4FC&sideLabels=DCE3F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A5B4FC&stroke=1A3379&border=1A3379" alt="GitHub contribution streak" height="170">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SandroSD&theme=tokyonight&utcOffset=-3" alt="Commits by hour of the day" height="170">
 </p>
