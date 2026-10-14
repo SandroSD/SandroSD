@@ -43,6 +43,7 @@ I write short, practical posts with small examples you can run in one command.
 
 1. [What is a job queue, and why does my API need one?](https://blog.sandrodezerio.dev/what-is-a-job-queue/)
 2. [How many jobs should a Node.js queue run at once?](https://blog.sandrodezerio.dev/node-job-queue-concurrency/)
+3. [How to retry failed jobs in Node.js without making it worse](https://blog.sandrodezerio.dev/node-job-queue-retries/)
 
 More parts are on the way. Posts are published on the [blog](https://blog.sandrodezerio.dev) and mirrored on [dev.to](https://dev.to/sandrosd).
 
