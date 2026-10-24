@@ -11,7 +11,7 @@
 
 ## About
 
-Nine years building web products, mostly in JavaScript and TypeScript. I work as a full-stack engineer on a global retail e-commerce platform: React and Next.js on the front, Node and GraphQL on AWS behind it. Before that I built fintech backends with NestJS microservices.
+Nine years building web products, mostly in JavaScript and TypeScript. I work as a full-stack engineer on a global retail e-commerce platform: React and Next.js on the front, Node and GraphQL on AWS behind it. Until April I also worked as a contractor on fintech backends at Qubika, building NestJS microservices.
 
 The thread through most of this work is reliability. Third-party APIs, queues and AI steps fail in predictable ways, and I like designing systems that expect it: retries with backoff, idempotency, dead-letter queues, structured logs.
 
@@ -44,14 +44,3 @@ I write short, practical posts with small examples you can run in one command.
 3. [How to retry failed jobs in Node.js without making it worse](https://blog.sandrodezerio.dev/node-job-queue-retries/)
 
 More parts are on the way. Posts are published on the [blog](https://blog.sandrodezerio.dev) and mirrored on [dev.to](https://dev.to/sandrosd).
-
-## GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SandroSD&show_icons=true&title_color=A5B4FC&text_color=DCE3F5&icon_color=818CF8&bg_color=0F1F4D&border_color=1A3379" alt="GitHub stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandroSD&layout=compact&langs_count=8&title_color=A5B4FC&text_color=DCE3F5&icon_color=818CF8&bg_color=0F1F4D&border_color=1A3379" alt="Most used languages" height="170">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SandroSD&background=0F1F4D&ring=818CF8&fire=818CF8&currStreakLabel=A5B4FC&sideLabels=DCE3F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A5B4FC&stroke=1A3379&border=1A3379" alt="GitHub contribution streak" width="495">
-</p>
