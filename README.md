@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg?v=5" alt="Sandro Dezerio. Senior fullstack engineer. Systems that hold up in production." width="100%">
+  <img src="assets/banner.svg?v=5" alt=" Sandro Dezerio. Senior full-stack engineer. Systems that hold up in production." width="100%">
 </p>
 
 <p align="center">
@@ -11,23 +11,21 @@
 
 ## About
 
-Nine years building web products, mostly in JavaScript and TypeScript. I work as a fullstack engineer on a global retail e-commerce platform: React and Next.js on the front, Node and GraphQL on AWS behind it. Before that I built fintech backends with NestJS microservices.
+Nine years building web products, mostly in JavaScript and TypeScript. I work as a full-stack engineer on a global retail e-commerce platform: React and Next.js on the front, Node and GraphQL on AWS behind it. Before that I built fintech backends with NestJS microservices.
 
 The thread through most of this work is reliability. Third-party APIs, queues and AI steps fail in predictable ways, and I like designing systems that expect it: retries with backoff, idempotency, dead-letter queues, structured logs.
 
-I also review code, mentor teammates and I am working toward a tech lead role. Based in Buenos Aires, Argentina. Open to senior and lead fullstack roles, remote.
+I also review code, mentor teammates, and I am working toward a tech lead role. Based in Buenos Aires, Argentina. Open to senior and lead full-stack roles, remote.
 
 ## Now learning: Blockchain Development
 
 <p align="center">
-  <img src="assets/learning.svg?v=2" alt="Decentralized systems. Blockchain development on the Solana ecosystem, with Rust as the main language." width="100%">
+  <img src="assets/learning.svg?v=2" alt="Decentralized systems. Blockchain development on the Solana ecosystem, with Rust for Solana programs." width="100%">
 </p>
 
-**From reliable fullstack systems to decentralized ones.**
+I’m learning blockchain development alongside my full-stack work. I’m in a Solana bootcamp, writing programs in Rust, the language for Solana programs, and learning the ecosystem tools as the course goes on.
 
-After nine years building web products and fintech backends, I am moving into blockchain development. I am in a Solana bootcamp, writing programs in Rust and learning the tools around the ecosystem as the course goes on.
-
-The move is a natural one. On-chain code handles value directly, so the habits I already rely on matter even more: idempotency, careful failure handling and treating correctness as a requirement, not a nice-to-have.
+On-chain code handles value directly, so the habits I already rely on matter even more: idempotency, careful failure handling and treating correctness as a requirement, not a nice-to-have.
 
 ## Stack
 
