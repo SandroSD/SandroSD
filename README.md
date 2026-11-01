@@ -42,5 +42,8 @@ I write short, practical posts with small examples you can run in one command.
 1. [What is a job queue, and why does my API need one?](https://blog.sandrodezerio.dev/what-is-a-job-queue/)
 2. [How many jobs should a Node.js queue run at once?](https://blog.sandrodezerio.dev/node-job-queue-concurrency/)
 3. [How to retry failed jobs in Node.js without making it worse](https://blog.sandrodezerio.dev/node-job-queue-retries/)
+4. [Ten steps at 99% is 90%: retrying multi-step jobs](https://blog.sandrodezerio.dev/multi-step-jobs-retries/)
+5. [Jobs that run twice: idempotency keys in Node.js](https://blog.sandrodezerio.dev/idempotency-keys-node-jobs/)
+6. [Jobs that survive a crash: Node.js and BullMQ](https://blog.sandrodezerio.dev/node-job-queue-redis-bullmq/)
 
 More parts are on the way. Posts are published on the [blog](https://blog.sandrodezerio.dev) and mirrored on [dev.to](https://dev.to/sandrosd).
